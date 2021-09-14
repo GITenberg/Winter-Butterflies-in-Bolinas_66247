@@ -1,11 +1,16 @@
 _repo: Winter-Butterflies-in-Bolinas_66247
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66247-h/images/cover.jpg
 creator:
   author:
     agent_name: Barber, Mary D.
     gutenberg_agent_id: '53704'
     url: http://www.gutenberg.org/2009/agents/53704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66247#Winter-Butterflies-in-Bolinas
 gutenberg_issued: '2021-09-08'
 identifiers:
   gutenberg: '66247'
